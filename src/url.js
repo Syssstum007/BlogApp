@@ -1,0 +1,1 @@
+export const BASE_URL=`https://blogapp-6x4z.onrender.com`;
